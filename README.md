@@ -33,6 +33,7 @@ OpenChamber varsayılan olarak yalnızca localhost üzerinde dinler. Güvendiği
 
 Resmî sürümlerin Türkçe özetleri [posts](posts) dizininde bulunur. Özetler resmî yayın notuna bağlanır. Kaynak değişmezse yeni yazı veya boş commit oluşturulmaz.
 
+- [2026-10-12: Arşivlenmiş sohbetler gönderimden sonra geri açılıyor](posts/2026-10-12-openchamber-archived-sessions-restore.md)
 - [2026-10-08: OpenChamber v2.2.0](posts/2026-10-08-openchamber-v2-2-0.md)
 
 ## Kaynak ve lisans
