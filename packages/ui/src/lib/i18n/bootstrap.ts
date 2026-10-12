@@ -328,18 +328,18 @@ const BOOTSTRAP_MESSAGES: Record<Locale, BootstrapMessages> = {
 
 export const readStoredLocaleForBootstrap = (): Locale => {
   if (typeof window === 'undefined') {
-    return 'en';
+    return 'tr';
   }
 
   try {
     const raw = window.localStorage.getItem(LOCALE_STORAGE_KEY);
     if (!raw) {
-      return 'en';
+      return 'tr';
     }
 
     const parsed = JSON.parse(raw) as { locale?: unknown };
-    return typeof parsed.locale === 'string' ? normalizeLocale(parsed.locale) : 'en';
+    return typeof parsed.locale === 'string' ? normalizeLocale(parsed.locale) : 'tr';
   } catch {
-    return 'en';
+    return 'tr';
   }
 };
