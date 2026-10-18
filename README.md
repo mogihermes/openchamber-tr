@@ -33,6 +33,7 @@ OpenChamber varsayılan olarak yalnızca localhost üzerinde dinler. Güvendiği
 
 Resmî sürümlerin Türkçe özetleri [posts](posts) dizininde bulunur. Özetler resmî yayın notuna bağlanır. Kaynak değişmezse yeni yazı veya boş commit oluşturulmaz.
 
+- [2026-10-18: Small Model üretim süresi istem boyutuna göre uzuyor](posts/2026-10-18-openchamber-small-model-prompt-deadline.md)
 - [2026-10-17: OpenChamber v2.4.0](posts/2026-10-17-openchamber-v2-4-0.md)
 - [2026-10-16: Agent sayfada seçim isteyebiliyor](posts/2026-10-16-openchamber-page-answer.md)
 - [2026-10-14: OpenChamber v2.3.3](posts/2026-10-14-openchamber-v2-3-3.md)
