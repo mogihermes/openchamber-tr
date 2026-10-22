@@ -33,6 +33,7 @@ OpenChamber varsayılan olarak yalnızca localhost üzerinde dinler. Güvendiği
 
 Resmî sürümlerin Türkçe özetleri [posts](posts) dizininde bulunur. Özetler resmî yayın notuna bağlanır. Kaynak değişmezse yeni yazı veya boş commit oluşturulmaz.
 
+- [2026-10-22: Server testleri geliştirici veri klasöründen izole edilmesi](posts/2026-10-22-openchamber-test-data-directory-isolation.md)
 - [2026-10-21: GitLab SSH klon ana bilgisayarı farklı olduğunda merge request'ler yükleniyor](posts/2026-10-21-openchamber-gitlab-ssh-clone-host.md)
 - [2026-10-19: OpenChamber v2.5.0](posts/2026-10-19-openchamber-v2-5-0.md)
 - [2026-10-19: Sohbet klasörleri aynı sunucudaki cihazlar arasında eşitleniyor](posts/2026-10-19-openchamber-shared-chat-folders.md)
