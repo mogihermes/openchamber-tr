@@ -32,6 +32,9 @@ OpenChamber varsayılan olarak yalnızca localhost üzerinde dinler. Güvendiği
 ## Türkçe güncellemeler
 
 Resmî sürümlerin Türkçe özetleri [posts](posts) dizininde bulunur. Özetler resmî yayın notuna bağlanır. Kaynak değişmezse yeni yazı veya boş commit oluşturulmaz.
+- [2026-10-24: pnpm-store yollarını tespit düzeltmesi](posts/2026-10-24-openchamber-pnpm-store-detection.md)
+
+
 
 - [2026-10-22: Server testleri geliştirici veri klasöründen izole edilmesi](posts/2026-10-22-openchamber-test-data-directory-isolation.md)
 - [2026-10-21: GitLab SSH klon ana bilgisayarı farklı olduğunda merge request'ler yükleniyor](posts/2026-10-21-openchamber-gitlab-ssh-clone-host.md)
