@@ -32,6 +32,7 @@ OpenChamber varsayılan olarak yalnızca localhost üzerinde dinler. Güvendiği
 ## Türkçe güncellemeler
 
 Resmî sürümlerin Türkçe özetleri [posts](posts) dizininde bulunur. Özetler resmî yayın notuna bağlanır. Kaynak değişmezse yeni yazı veya boş commit oluşturulmaz.
+- [2026-10-28: OpenChamber v2.5.3](posts/2026-10-28-openchamber-v2-5-3-summary.md)
 - [2026-10-26: OpenChamber v2.5.2](posts/2026-10-26-openchamber-v2-5-2-summary.md)
 - [2026-10-25: Sürükleme ile satır numarası düzeltmesi](posts/2026-10-25-openchamber-line-drag-fix.md)
 - [2026-10-24: pnpm-store yollarını tespit düzeltmesi](posts/2026-10-24-openchamber-pnpm-store-detection.md)
