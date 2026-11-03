@@ -125,7 +125,8 @@
 
 ## Kaynakça
 
-- Bu yazı, [resmî commit](https://github.com/openchamber/openchamber/commit/6140a6a6a2596efc9556b3612f12d37ed114f3c1) üzerine kuruludur. Teknik detaylar ve tam workflow değişiklikleri için esas alınır.
+- Bu yazı, [resmî commit 6140a6a6a2596efc9556b3612f12d37ed114f3c1](https://github.com/openchamber/openchamber/commit/6140a6a6a2596efc9556b3612f12d37ed114f3c1) üzerinekuruludur. Teknik detaylar ve tam workflow değişiklikleri için esas alınır.
 - [Resmî GitHub release v2.6.0](https://github.com/openchamber/openchamber/releases/tag/v2.6.0)
+- [Commit: docs: document retry and Git transfer review policies](https://github.com/openchamber/openchamber/commit/6cd8058d5f2c5b97eb1245ebd125ff6ecb50b102)
 - [OpenCode 2.2.5 güncellemesi](https://github.com/openchamber/openchamber/releases/tag/v2.6.0) (Bundled OpenCode updated to 2.2.5)
 - Electron updated to 44.10
