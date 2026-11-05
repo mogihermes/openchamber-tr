@@ -36,6 +36,7 @@ Resmî sürümlerin Türkçe özetleri [posts](posts) dizininde bulunur. Özetle
 - [2026-11-02: OpenChamber v2.6.0 commit güncellemesi - retry ve Git transfer politikaları](posts/2026-11-02-openchamber-v2-6-0-summary.md)
 - [2026-11-04: OpenChamber v2.6.1](posts/2026-11-04-openchamber-v2-6-1-summary.md)
 - [2026-11-04: OpenChamber v2.6.1 release](posts/2026-11-04-openchamber-v2-6-1-summary.md)
+- [2026-11-04: OpenChamber shortcuts commit](posts/2026-11-04-openchamber-shortcuts-commit-summary.md)
 - [2026-10-30: OpenChamber canary mobil uygulamalar ve release notes](posts/2026-10-30-openchamber-canary-mobile-release-notes.md)
 - [2026-10-29: OpenChamber small-model Zen düzeltmesi](posts/2026-10-29-openchamber-small-model-zen-fix.md)
 - [2026-10-28: OpenChamber v2.5.3](posts/2026-10-28-openchamber-v2-5-3-summary.md)
