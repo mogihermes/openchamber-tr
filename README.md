@@ -1,6 +1,6 @@
 # OpenChamber Türkçe
 
-[![Sürüm](https://img.shields.io/github/v/release/openchamber/openchamber?label=resm%C3%AE%20s%C3%BCr%C3%BCm)](https://github.com/openchamber/openchamber/releases/latest)
+[![Sürüm](https://img.shields.io/github/v/release/openchamber/openchamber?label=resmi%20sürüm)](https://github.com/openchamber/openchamber/releases/latest)
 [![Lisans: MIT](https://img.shields.io/badge/lisans-MIT-green.svg)](LICENSE)
 
 OpenChamber, yapay zekâ destekli kodlama çalışmalarını masaüstü, web, VS Code ve mobilde başlatmak, takip etmek ve incelemek için açık kaynaklı bir çalışma alanıdır.
@@ -32,20 +32,19 @@ OpenChamber varsayılan olarak yalnızca localhost üzerinde dinler. Güvendiği
 ## Türkçe güncellemeler
 
 Resmî sürümlerin Türkçe özetleri [posts](posts) dizininde bulunur. Özetler resmî yayın notuna bağlanır. Kaynak değişmezse yeni yazı veya boş commit oluşturulmaz.
- - [2026-11-02: OpenChamber v2.6.0](posts/2026-11-02-openchamber-v2-6-0-summary.md)
-- [2026-11-02: OpenChamber v2.6.0 commit güncellemesi - retry ve Git transfer politikaları](posts/2026-11-02-openchamber-v2-6-0-summary.md)
+
+- [2026-11-05: OpenChamber worktree teardown fix](posts/2026-11-05-openchamber-worktree-teardown-fix-summary.md)
+- [2026-11-04: OpenChamber shortcuts commit](posts/2026-11-04-openchamber-shortcuts-commit-summary.md)
 - [2026-11-04: OpenChamber v2.6.1](posts/2026-11-04-openchamber-v2-6-1-summary.md)
 - [2026-11-04: OpenChamber v2.6.1 release](posts/2026-11-04-openchamber-v2-6-1-summary.md)
-- [2026-11-04: OpenChamber shortcuts commit](posts/2026-11-04-openchamber-shortcuts-commit-summary.md)
+- [2026-11-02: OpenChamber v2.6.0](posts/2026-11-02-openchamber-v2-6-0-summary.md)
+- [2026-11-02: OpenChamber v2.6.0 commit güncellemesi - retry ve Git transfer politikaları](posts/2026-11-02-openchamber-v2-6-0-summary.md)
 - [2026-10-30: OpenChamber canary mobil uygulamalar ve release notes](posts/2026-10-30-openchamber-canary-mobile-release-notes.md)
 - [2026-10-29: OpenChamber small-model Zen düzeltmesi](posts/2026-10-29-openchamber-small-model-zen-fix.md)
 - [2026-10-28: OpenChamber v2.5.3](posts/2026-10-28-openchamber-v2-5-3-summary.md)
 - [2026-10-26: OpenChamber v2.5.2](posts/2026-10-26-openchamber-v2-5-2-summary.md)
 - [2026-10-25: Sürükleme ile satır numarası düzeltmesi](posts/2026-10-25-openchamber-line-drag-fix.md)
 - [2026-10-24: pnpm-store yollarını tespit düzeltmesi](posts/2026-10-24-openchamber-pnpm-store-detection.md)
-
-
-
 - [2026-10-22: Server testleri geliştirici veri klasöründen izole edilmesi](posts/2026-10-22-openchamber-test-data-directory-isolation.md)
 - [2026-10-21: GitLab SSH klon ana bilgisayarı farklı olduğunda merge request'ler yükleniyor](posts/2026-10-21-openchamber-gitlab-ssh-clone-host.md)
 - [2026-10-19: OpenChamber v2.5.0](posts/2026-10-19-openchamber-v2-5-0.md)
