@@ -33,6 +33,7 @@ OpenChamber varsayılan olarak yalnızca localhost üzerinde dinler. Güvendiği
 
 Resmî sürümlerin Türkçe özetleri [posts](posts) dizininde bulunur. Özetler resmî yayın notuna bağlanır. Kaynak değişmezse yeni yazı veya boş commit oluşturulmaz.
 
+- [2026-11-07: OpenChamber triage PR finish](posts/2026-11-07-openchamber-triage-pr-finish-summary.md)
 - [2026-11-05: OpenChamber worktree teardown fix](posts/2026-11-05-openchamber-worktree-teardown-fix-summary.md)
 - [2026-11-04: OpenChamber shortcuts commit](posts/2026-11-04-openchamber-shortcuts-commit-summary.md)
 - [2026-11-04: OpenChamber v2.6.1](posts/2026-11-04-openchamber-v2-6-1-summary.md)
