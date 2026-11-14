@@ -33,6 +33,8 @@ OpenChamber varsayılan olarak yalnızca localhost üzerinde dinler. Güvendiği
 
 Resmî sürümlerin Türkçe özetleri [posts](posts) dizininde bulunur. Özetler resmî yayın notuna bağlanır. Kaynak değişmezse yeni yazı veya boş commit oluşturulmaz.
 
+- [2026-11-14: OpenChamber built-in timer for waits](posts/2026-11-14-openchamber-wait-timer-summary.md)
+- [2026-11-11: OpenChamber Markdown önizleme Öğe Listesi](posts/2026-11-11-openchamber-outline-preview-summary.md)
 - [2026-11-09: OpenChamber tools hints folded into summaries](posts/2026-11-09-openchamber-tools-hints-summary.md)
 - [2026-11-09: OpenChamber PATH düzeltmesi](posts/2026-11-09-openchamber-path-fix-summary.md)
 - [2026-11-08: OpenChamber v2.7.0](posts/2026-11-08-openchamber-v2-7-0-summary.md)
