@@ -35,6 +35,7 @@ Resmî sürümlerin Türkçe özetleri [posts](posts) dizininde bulunur. Özetle
 
 - [2026-11-15: OpenChamber release rerun npm atlama](posts/2026-11-15-openchamber-release-rerun-skip-npm-summary.md)
 - [2026-11-15: OpenChamber in-house etiketleri](posts/2026-11-15-openchamber-in-house-summary.md)
+- [2026-11-18: OpenChamber opencode CLI retired check düzeltmesi](posts/2026-11-18-openchamber-opencode-cli-duzeltmesi-summary.md)
 - [2026-11-14: OpenChamber built-in timer for waits](posts/2026-11-14-openchamber-wait-timer-summary.md)
 - [2026-11-11: OpenChamber Markdown önizleme Öğe Listesi](posts/2026-11-11-openchamber-outline-preview-summary.md)
 - [2026-11-09: OpenChamber tools hints folded into summaries](posts/2026-11-09-openchamber-tools-hints-summary.md)
