@@ -33,6 +33,7 @@ OpenChamber varsayılan olarak yalnızca localhost üzerinde dinler. Güvendiği
 
 Resmî sürümlerin Türkçe özetleri [posts](posts) dizininde bulunur. Özetler resmî yayın notuna bağlanır. Kaynak değişmezse yeni yazı veya boş commit oluşturulmaz.
 
+- [2026-11-23: OpenCode sunucu pin kontrolü düzeltmesi](posts/2026-11-23-openchamber-opencode-pin-check-duzeltmesi-summary.md)
 - [2026-11-15: OpenChamber release rerun npm atlama](posts/2026-11-15-openchamber-release-rerun-skip-npm-summary.md)
 - [2026-11-15: OpenChamber in-house etiketleri](posts/2026-11-15-openchamber-in-house-summary.md)
 - [2026-11-18: OpenChamber opencode CLI retired check düzeltmesi](posts/2026-11-18-openchamber-opencode-cli-duzeltmesi-summary.md)
