@@ -42,6 +42,7 @@ Resmî sürümlerin Türkçe özetleri [posts](posts) dizininde bulunur. Özetle
 - [2026-11-22: OpenChamber v2.8.0](posts/2026-11-22-openchamber-v2-8-0-summary.md)
 - [2026-11-23: OpenCode sunucu pin kontrolü düzeltmesi](posts/2026-11-23-openchamber-opencode-pin-check-duzeltmesi-summary.md)
 - [2026-11-25: OpenChamber integration sessions fix](posts/2026-11-25-openchamber-integration-sessions-fix-summary.md)
+- [2026-11-25: OpenChamber reasoning blocks summary](posts/2026-11-25-openchamber-reasoning-blocks-summary.md)
 - [2026-11-14: OpenChamber built-in timer for waits](posts/2026-11-14-openchamber-wait-timer-summary.md)
 - [2026-11-11: OpenChamber Markdown önizleme Öğe Listesi](posts/2026-11-11-openchamber-outline-preview-summary.md)
 - [2026-11-09: OpenChamber tools hints folded into summaries](posts/2026-11-09-openchamber-tools-hints-summary.md)
